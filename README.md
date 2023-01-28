@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/stianleroux" target="blank"><img src="https://img.shields.io/twitter/follow/stianleroux?logo=twitter&style=for-the-badge" alt="stianleroux" /></a> </p>
 
-- 🔭 I’m currently working on **Sanlam Glacier**
-
-- 🌱 I’m currently learning **ReactJS**
-
 - 📝 I regularly write articles on [stianleroux.com](stianleroux.com)
 
 - 💬 Ask me about **Mentorship, Consulting, Solution Architecture or Coding**
